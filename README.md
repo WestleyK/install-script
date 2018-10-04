@@ -1,5 +1,5 @@
-# install-script
-Simple install script for your GitHub projects
+# An install script
+A simple install script for your GitHub projects.
 
 <br>
 
